@@ -10,4 +10,5 @@ Problem statement:
 Fake news has been a hot topic of discussion in the last few years in an attempt to create public unrest and influence public perceptions using social media platforms. A notable method through which falsified information is being spread is through what are known as neural bots. These bots are trained to recognize popular topics of discussion and create false news articles based on them, which seem very credible. This in turn creates false, biased, and unwarranted opinions. This calls for reliable fake news detection systems. The desired solution will involve rigorous analysis of the motive behind the spread of misinformation, its characteristics, and approaches to identify them, using AI/ML/Data Mining techniques and web crawling.
 
 ![](images/Idea.PNG)
+
 ![](images/Impact.PNG)
